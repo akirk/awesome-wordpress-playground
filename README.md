@@ -6,10 +6,19 @@ This list collects awesome uses of playground and awesome tools to build with it
 
 ## Contents
 
+- [Official Links](#official-links)
 - [Building Blueprints](#building-blueprints)
 - [Novel Applications](#novel-applications)
+- [Tutorials & Guides](#tutorials--guides)
 - [Contribute](#contribute)
 
+
+## Official Links
+
+- [WordPress Playground](https://playground.wordpress.net/) - Try WordPress Playground here.
+- [WordPress.org/Playground](https://wordpress.org/playground/) - WordPress Playground explained on WordPress.org.
+- [WordPress Playground on GitHub](https://github.com/WordPress/wordpress-playground) - The source code for the playground.
+- [Playground Tools on GitHub](https://github.com/WordPress/playground-tools) - Tools and applications built using WordPress Playground:.
 
 ## Building Blueprints
 
@@ -29,6 +38,11 @@ This is where WordPress Playground powers applications that were not possible or
 - [WordPress Core Pull Request Previewer](https://playground.wordpress.net/wordpress.html) - Run a [WordPress Core](https://github.com/WordPress/wordpress-develop/) Pull Request in a playground to test it.
 - [WP-CLI in the browser](https://playground.wordpress.net/demos/wp-cli.html) - Puts a wp-cli commandline above a playground to manipulate it.
 
+## Tutorials & Guides
+
+- [WordPress Playground Documentation](https://wordpress.github.io/wordpress-playground/) - An introduction to WordPress Playground.
+- [Query API](https://wordpress.github.io/wordpress-playground/query-api/) - How to configure playground.wordpress.net via query parameters.
+- [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints-api/) - How to create and use blueprints.
 
 ## Contribute
 

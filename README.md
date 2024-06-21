@@ -18,7 +18,7 @@ This list collects awesome uses of playground and awesome tools to build with it
 - [WordPress Playground](https://playground.wordpress.net/) - Try WordPress Playground here.
 - [WordPress.org/Playground](https://wordpress.org/playground/) - WordPress Playground explained on WordPress.org.
 - [WordPress Playground on GitHub](https://github.com/WordPress/wordpress-playground) - The source code for the playground.
-- [Playground Tools on GitHub](https://github.com/WordPress/playground-tools) - Tools and applications built using WordPress Playground:.
+- [Playground Tools on GitHub](https://github.com/WordPress/playground-tools) - Tools and applications built using WordPress Playground.
 
 ## Building Blueprints
 

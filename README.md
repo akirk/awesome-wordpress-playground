@@ -6,9 +6,16 @@ This list collects awesome uses of playground and awesome tools to build with it
 
 ## Contents
 
-- [Novel Applications](#novel-applications)
 - [Building Blueprints](#building-blueprints)
+- [Novel Applications](#novel-applications)
+- [Contribute](#contribute)
 
+
+## Building Blueprints
+
+- [Blueprint Builder](https://playground.wordpress.net/builder/builder.html) - A codepen-like environment for building blueprints with autocomplete.
+- [Blueprints Gallery](https://github.com/WordPress/blueprints/blob/trunk/GALLERY.md) - A directory of blueprints that demonstrate different ways to use them.
+- [Step Library](https://akirk.github.io/playground-step-library/) - A collection of custom steps that you can use to build your own blueprint, along with a UI.
 
 ## Novel Applications
 
@@ -21,12 +28,6 @@ This is where WordPress Playground powers applications that were not possible or
 - [Translate Live](https://translate.wordpress.org/projects/wp-plugins/friends/dev/de/default/playground/) - Inline Translation for WordPress plugins and themes, here is an example of the [WordPress Plugin Friends](https://wordpress.org/plugins/friends/) and the language German.
 - [WordPress Core Pull Request Previewer](https://playground.wordpress.net/wordpress.html) - Run a [WordPress Core](https://github.com/WordPress/wordpress-develop/) Pull Request in a playground to test it.
 - [WP-CLI in the browser](https://playground.wordpress.net/demos/wp-cli.html) - Puts a wp-cli commandline above a playground to manipulate it.
-
-## Building Blueprints
-
-- [Blueprint Builder](https://playground.wordpress.net/builder/builder.html) - A codepen-like environment for building blueprints with autocomplete.
-- [Blueprints Gallery](https://github.com/WordPress/blueprints/blob/trunk/GALLERY.md) - A directory of blueprints that demonstrate different ways to use them.
-- [Step Library](https://akirk.github.io/playground-step-library/) - A collection of custom steps that you can use to build your own blueprint, along with a UI.
 
 
 ## Contribute

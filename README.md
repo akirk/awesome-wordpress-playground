@@ -9,6 +9,7 @@ This list collects awesome uses of playground and awesome tools to build with it
 - [Official Links](#official-links)
 - [Building Blueprints](#building-blueprints)
 - [Novel Applications](#novel-applications)
+- [Tools](#tools)
 - [Tutorials & Guides](#tutorials--guides)
 - [Contribute](#contribute)
 
@@ -37,6 +38,13 @@ This is where WordPress Playground powers applications that were not possible or
 - [Translate Live](https://translate.wordpress.org/projects/wp-plugins/friends/dev/de/default/playground/) - Inline Translation for WordPress plugins and themes, here is an example of the WordPress Plugin [Friends](https://wordpress.org/plugins/friends/) and the language German.
 - [WordPress Core Pull Request Previewer](https://playground.wordpress.net/wordpress.html) - Run a [WordPress Core](https://github.com/WordPress/wordpress-develop/) Pull Request in a playground to test it.
 - [WP-CLI in the browser](https://playground.wordpress.net/demos/wp-cli.html) - Puts a wp-cli commandline above a playground to manipulate it.
+
+## Tools
+
+- [Edit Visually](https://github.com/WordPress/playground-tools/tree/trunk/packages/edit-visually-browser-extension) - Edit GitHub issue descriptions and other text formats using WordPress blocks in Playground.
+- [Playground Block for Gutenberg](https://wordpress.org/plugins/interactive-code-block/) - A block that embeds a playground in your post.
+- [WordPress Playground for VS Code](https://marketplace.visualstudio.com/items?itemName=WordPressPlayground.wordpress-playground) - Run a WordPress development server without any dependencies.
+- [wp-now](https://www.npmjs.com/package/@wp-now/wp-now) - A CLI tool to streamline the process of setting up a local WordPress environment.
 
 ## Tutorials & Guides
 

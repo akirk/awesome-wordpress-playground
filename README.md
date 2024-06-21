@@ -6,11 +6,11 @@ This list collects awesome uses of playground and awesome tools to build with it
 
 ## Contents
 
-- [Use It](#use-it)
+- [Novel Applications](#novel-applications)
 - [Building Blueprints](#building-blueprints)
 
 
-## Use it
+## Novel Applications
 
 This is where WordPress Playground powers applications that were not possible or much harder without it.
 

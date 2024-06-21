@@ -1,4 +1,4 @@
-# Awesome Wordpress Playground [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WordPress Playground [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [WordPress Playground](https://wordpress.github.io/wordpress-playground/) is WordPress in one click. It's a platform that lets you run WordPress instantly on any device without a host. It’s your place to build, experiment, test, and grow.
 

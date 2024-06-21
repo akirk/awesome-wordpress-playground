@@ -41,7 +41,7 @@ This is where WordPress Playground powers applications that were not possible or
 
 ## Tools
 
-- [Edit Visually](https://github.com/WordPress/playground-tools/tree/trunk/packages/edit-visually-browser-extension) - Edit GitHub issue descriptions and other text formats using WordPress blocks in Playground.
+- [Edit Visually Browser Extension](https://github.com/WordPress/playground-tools/tree/trunk/packages/edit-visually-browser-extension) - Edit GitHub issue descriptions and other text formats using WordPress blocks in Playground.
 - [Playground Block for Gutenberg](https://wordpress.org/plugins/interactive-code-block/) - A block that embeds a playground in your post.
 - [WordPress Playground for VS Code](https://marketplace.visualstudio.com/items?itemName=WordPressPlayground.wordpress-playground) - Run a WordPress development server without any dependencies.
 - [wp-now](https://www.npmjs.com/package/@wp-now/wp-now) - A CLI tool to streamline the process of setting up a local WordPress environment.

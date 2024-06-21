@@ -42,7 +42,7 @@ This is where WordPress Playground powers applications that were not possible or
 
 - [WordPress Playground Documentation](https://wordpress.github.io/wordpress-playground/) - An introduction to WordPress Playground.
 - [Query API](https://wordpress.github.io/wordpress-playground/query-api/) - How to configure playground.wordpress.net via query parameters.
-- [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints-api/) - How to create and use blueprints.
+- [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints-api/index) - How to create and use blueprints.
 - [Playground on WordPress.tv](https://wordpress.tv/tag/wordpress-playground/) - Talks from WordCamps on WordPress Playground.
 
 ## Contribute

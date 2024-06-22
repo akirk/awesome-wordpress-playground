@@ -42,6 +42,7 @@ This is where WordPress Playground powers applications that were not possible or
 ## Tools
 
 - [Edit Visually Browser Extension](https://github.com/WordPress/playground-tools/tree/trunk/packages/edit-visually-browser-extension) - Edit GitHub issue descriptions and other text formats using WordPress blocks in Playground.
+- [Museum of Block Art](https://block-museum.com/) - In this museum, the blocks are demo'ed using WordPress Playground.
 - [Playground Block for Gutenberg](https://wordpress.org/plugins/interactive-code-block/) - A block that embeds a playground in your post.
 - [WordPress Playground for VS Code](https://marketplace.visualstudio.com/items?itemName=WordPressPlayground.wordpress-playground) - Run a WordPress development server without any dependencies.
 - [wp-now](https://www.npmjs.com/package/@wp-now/wp-now) - A CLI tool to streamline the process of setting up a local WordPress environment.
@@ -49,6 +50,8 @@ This is where WordPress Playground powers applications that were not possible or
 ## Tutorials & Guides
 
 - [WordPress Playground Documentation](https://wordpress.github.io/wordpress-playground/) - An introduction to WordPress Playground.
+- [WordPress Playground README](https://github.com/WordPress/wordpress-playground?#wordpress-playground-and-php-wasm-webassembly) - An explanation of WordPress Playground and how to get started.
+- [Blueprints 101](https://github.com/WordPress/blueprints/blob/blueprints-crash-course/docs/index.md) - A Blueprints crash course.
 - [Query API](https://wordpress.github.io/wordpress-playground/query-api/) - How to configure playground.wordpress.net via query parameters.
 - [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints-api/index) - How to create and use blueprints.
 - [Playground on WordPress.tv](https://wordpress.tv/tag/wordpress-playground/) - Talks from WordCamps on WordPress Playground.

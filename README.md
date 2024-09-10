@@ -53,8 +53,8 @@ This is where WordPress Playground powers applications that were not possible or
 - [WordPress Playground Documentation](https://wordpress.github.io/wordpress-playground/) - An introduction to WordPress Playground.
 - [WordPress Playground README](https://github.com/WordPress/wordpress-playground?#wordpress-playground-and-php-wasm-webassembly) - An explanation of WordPress Playground and how to get started.
 - [Blueprints 101](https://github.com/WordPress/blueprints/blob/blueprints-crash-course/docs/index.md) - A Blueprints crash course.
-- [Query API](https://wordpress.github.io/wordpress-playground/query-api/) - How to configure playground.wordpress.net via query parameters.
-- [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints-api/index) - How to create and use blueprints.
+- [Query API](https://wordpress.github.io/wordpress-playground/developers/apis/query-api) - How to configure playground.wordpress.net via query parameters.
+- [Blueprint API](https://wordpress.github.io/wordpress-playground/blueprints/data-format) - How to create and use blueprints.
 - [Playground on WordPress.tv](https://wordpress.tv/tag/wordpress-playground/) - Talks from WordCamps on WordPress Playground.
 
 ## Contribute

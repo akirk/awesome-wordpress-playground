@@ -30,6 +30,7 @@ This is where WordPress Playground powers applications that were not possible or
 - [Playground Synchronization](https://playground.wordpress.net/demos/time-traveling.html) - Record changes made in one playground and play them back in a second playground.
 - [Time Traveling](https://playground.wordpress.net/demos/time-traveling.html) - Record changes made in one playground and play them back in a second playground.
 - [Translate Live](https://translate.wordpress.org/projects/wp-plugins/friends/dev/de/default/playground/) - Inline Translation for WordPress plugins and themes, here is an example of the WordPress Plugin [Friends](https://wordpress.org/plugins/friends/) and the language German.
+- [WordPress Block Development Examples](https://wordpress.github.io/block-development-examples) – Learn about Block Development through code examples and live demos.
 - [WordPress Core Pull Request Previewer](https://playground.wordpress.net/wordpress.html) - Run a [WordPress Core](https://github.com/WordPress/wordpress-develop/) Pull Request in a playground to test it.
 - [WP-CLI in the browser](https://playground.wordpress.net/demos/wp-cli.html) - Puts a wp-cli commandline above a playground to manipulate it.
 

@@ -3,7 +3,7 @@ name: Check Markdown links
 on:
   push:
   schedule:
-    - cron: '0 14 * * 2' # 2pm Tuesday
+    - cron: '0 9 * * *' # 9am every day
 
 jobs:
   markdown-link-check:
